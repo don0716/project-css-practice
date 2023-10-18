@@ -3,6 +3,7 @@
 
 Having a solid understanding of the basics of CSS is crucial for web development. CSS (Cascading Style Sheets) is the language used to control the presentation and styling of web content.
 I will be going through the following with exercises in order to refresh my mind with all the CSS basics.
+For this particular understanding project, I will be making use of FIREFOX web browser.
 
 1. **Box Model**: Understand the CSS box model, which includes elements like margin, border, padding, and content. This is fundamental to understanding how elements are laid out on a web page.
 
